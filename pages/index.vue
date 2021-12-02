@@ -1,22 +1,38 @@
 <template>
   <v-app>
     <v-main>
-      <v-layout class="justify-center">
-        <nuxt />
-        <v-col>
-          <v-row  justify="center">
-            <h1>Classical Magnet Info Tech</h1>
-          </v-row>
-          <v-row row d-flex nowrap align="center" justify="center">
-              <v-btn 
-              rounded
-              outlined
-              to="/newticket">
-                Submit a New Ticket Here
-              </v-btn>
-          </v-row>
-        </v-col>
+      <v-parallax src="parallax.jpg">
+      <v-layout fill-height fluid>
+        <v-container fill-height fluid align-items="top">
+          <nuxt />
+          <v-col
+          align-self="center"
+          height=100%>
+              <v-card
+              shaped
+              max-width="500"
+              > <v-card-text class=text-center> <h1 style="color:black"> Classical Magnet Info Tech</h1> </v-card-text>
+              </v-card>
+                <v-btn 
+                rounded
+                to="/newticket"
+                color="success">
+                  Submit a New Ticket Here
+                </v-btn>
+              
+          </v-col>
+        </v-container>
       </v-layout>
+      </v-parallax>
     </v-main>
   </v-app>
 </template>
+<script>
+export default {
+  data() {
+    return {
+      image: { backgroundImage: "url(/9k.png)" },
+    };
+  },
+};
+</script>

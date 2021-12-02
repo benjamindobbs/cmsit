@@ -14,3 +14,10 @@
      border-style: none;
      display: block;
  }
+ .v-parallax__image {
+    transform: none !important;
+    width: 100% !important;
+  }
+  h1{
+    color:"black";
+  }

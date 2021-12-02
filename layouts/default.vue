@@ -1,5 +1,5 @@
 <template>
-  <v-app dark>
+  <v-app>
     <v-tabs centered>
       <v-tab
         v-for="(item, i) in items"
