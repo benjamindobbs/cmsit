@@ -7,12 +7,10 @@
         :to="item.to"
         nuxt
         router
-        exact
       >
         {{ item.title }}
       </v-tab>
     </v-tabs>
-    <v-spacer />
     <v-main>
       <v-container>
         <Nuxt />
@@ -44,6 +42,11 @@ export default {
           title: "Ticket Queue",
           to: "/ticketqueue",
         },
+        {
+          icon: "",
+          title: "FAQ",
+          to: "/faq"
+        }
       ],
       title: "Classical Magnet IT",
     };
