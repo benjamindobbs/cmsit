@@ -1,6 +1,6 @@
 <template>
   <v-app>
-    <v-tabs centered>
+    <v-tabs centered fixed-tabs>
       <v-tab
         v-for="(item, i) in items"
         :key="i"
@@ -46,6 +46,11 @@ export default {
           icon: "",
           title: "FAQ",
           to: "/faq"
+        },
+        {
+          icon:"",
+          title:"Tutorials",
+          to:"/tutorials"
         }
       ],
       title: "Classical Magnet IT",
