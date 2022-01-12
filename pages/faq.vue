@@ -8,6 +8,8 @@
             </v-card-text>
         </v-card>
         <v-col>
+            <h2> How do I Submit a Ticket/Talk with MHIS </h2>
+            <h4> You can email <a href="mailto:helpdesk@hartfordschools.org"> Helpdesk </a> , Call 860-757-9411, or if You have an Account, you can submit a Ticket <a href="http://servicedesk.hartford.gov:8443" target="_blank"> here </a> </h4>
             <h2> My Student Needs a Loaner </h2>
             <h4> If you have already handed out your two classroom loaners, please send them to Reggie, Guidance, or the 3rd Floor Office. They have extra Loaners There </h4>
 
