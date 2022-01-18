@@ -19,6 +19,16 @@
           </v-btn>
         </v-card-actions>
       </v-card>
+      <v-card>
+        <v-card-text>
+          <h2>Parent Square Training (External)</h2>
+        </v-card-text>
+        <v-card-actions>
+          <v-btn href="https://parentsquare.zendesk.com/hc/en-us/categories/360001600432-Teachers" target="_blank">
+            Click Here to View
+          </v-btn>
+        </v-card-actions>
+      </v-card>
     </v-container>
   </v-main>
 </template>

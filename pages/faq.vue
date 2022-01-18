@@ -23,6 +23,12 @@
           them to Reggie, Guidance, or the 3rd Floor Office. They have extra
           Loaners There
         </h4>
+        <h2>I suspect an email as Phishing/Someone Emailed me Trying to Extort Me </h2>
+        <h4>
+          Any email claiming to know information about you, asking for money, threatening you, or otherwise suspucious should be ignored
+          and forwarded to <a href="mailto:suspiciousemails@hartfordschools.org"> suspiciousemails@hartfordschools.org </a>. 
+          If you are concerned, you can also come see me or forward me the email.
+        </h4> 
 
         <h2>When will my be Ticket Done?</h2>
         <h4>
