@@ -13,15 +13,11 @@
           You can email
           <a href="mailto:helpdesk@hartfordschools.org"> Helpdesk </a> , Call
           860-757-9411, or if You have an Account, you can submit a Ticket
-          <a href="http://servicedesk.hartford.gov:8443" target="_blank">
-            here
-          </a>
+          <a href="http://servicedesk.hartford.gov:8443" target="_blank"> here </a>
         </h4>
         <h2>My Student Needs a Loaner</h2>
         <h4>
-          If you have already handed out your two classroom loaners, please send
-          them to Reggie, Guidance, or the 3rd Floor Office. They have extra
-          Loaners There
+          This year we will be doing a different format for loaner devices. This will start to be integrated shortly.
         </h4>
         <h2>I suspect an email as Phishing/Someone Emailed me Trying to Extort Me </h2>
         <h4>
@@ -58,7 +54,7 @@
         </h4>
 
         <h2>A Student Says They Have a Broken Something or Other</h2>
-        <h4>Send them down to 146 during 2nd period and we'll sort it out</h4>
+        <h4>Send them down to 146 during 5th period and we'll sort it out</h4>
 
         <h2>Do you fix stuff other than school issued devices?</h2>
         <h4>
