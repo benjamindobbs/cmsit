@@ -19,6 +19,16 @@
           </v-btn>
         </v-card-actions>
       </v-card>
+        <v-card>
+        <v-card-text>
+          <h2>Setting Up a Wireless Printer</h2>
+        </v-card-text>
+        <v-card-actions>
+          <v-btn href="/pdf/printer-instructions.pdf" target="_blank">
+            Click Here to View
+          </v-btn>
+        </v-card-actions>
+      </v-card>
       <v-card>
         <v-card-text>
           <h2>Parent Square Training (External)</h2>
