@@ -24,7 +24,7 @@
           <h2>Setting Up a Wireless Printer</h2>
         </v-card-text>
         <v-card-actions>
-          <v-btn href="/pdf/printer-instructions.pdf" target="_blank">
+          <v-btn href="/pdf/PrinterInstructions.pdf" target="_blank">
             Click Here to View
           </v-btn>
         </v-card-actions>
