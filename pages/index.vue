@@ -19,6 +19,12 @@
                 color="success">
                   Submit a New Ticket Here
                 </v-btn>
+                <v-btn 
+                rounded
+                to="/newStudentTicket"
+                color="success">
+                  Submit a New Student Ticket Here
+                </v-btn>
               
           </v-col>
         </v-container>

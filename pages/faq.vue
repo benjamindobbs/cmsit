@@ -8,6 +8,10 @@
         </v-card-text>
       </v-card>
       <v-col>
+        <h2>
+          Where can I submit a ticket for a student?
+        </h2>
+        <h4> You can fill out a form <a href="https://docs.google.com/forms/d/e/1FAIpQLSdxqjaC_2f9lr5pZ7Y6XMoujUsPdKvW6ACuQAYn0cfCZpo61Q/viewform?usp=share_link">here</a></h4>
         <h2>How do I Submit a Ticket/Talk with MHIS</h2>
         <h4>
           You can email
@@ -17,7 +21,7 @@
         </h4>
         <h2>My Student Needs a Loaner</h2>
         <h4>
-          This year we will be doing a different format for loaner devices. This will start to be integrated shortly.
+          We are doing centralized loaners. You can have students get a loaner from Webster on the 3rd floor, or Silva on the 2nd floor.
         </h4>
         <h2>I suspect an email as Phishing/Someone Emailed me Trying to Extort Me </h2>
         <h4>

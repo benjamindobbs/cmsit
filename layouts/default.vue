@@ -37,6 +37,10 @@ export default {
           title: "Create Ticket",
           to: "/newticket",
         },
+        {icon: "mdi-archive-plus-outline",
+          title: "Create Student Ticket",
+          to: "/newStudentTicket",
+        },
         {
           icon: "mdi-format-list-checks",
           title: "Ticket Queue",
